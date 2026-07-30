@@ -1,0 +1,15 @@
+{
+  "name": "mikrowisp-evolution-gateway",
+  "version": "1.0.0",
+  "description": "Gateway traductor entre MikroWisp y Evolution API",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
